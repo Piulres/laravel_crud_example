@@ -19,8 +19,6 @@ Tonca uses a number of open source projects to work properly:
 
 * [jQuery]
 * [Bootstrap]
-* [Isotope]
-* [Wordpress]
 * [Composer]
 * [Laravel]
 
@@ -116,5 +114,3 @@ http://renan.zz.mu/laravel_crud/
    [jQuery]: <http://jquery.com/>
    [Laravel]: <https://laravel.com/>
    [Bootstrap]: <http://getbootstrap.com/>
-   [Isotope]: <http://isotope.metafizzy.co/>
-   [Wordpress]: <https://github.com/Piulres/WordPress/>
