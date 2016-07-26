@@ -15,7 +15,7 @@ You need the Apache, Mysql e PHP to run this application.
 
 ----
 ### Tech
-Tonca uses a number of open source projects to work properly:
+Uses a number of open source projects to work properly:
 
 * [jQuery]
 * [Bootstrap]
